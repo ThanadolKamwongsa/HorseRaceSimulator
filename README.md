@@ -23,14 +23,19 @@ Part 2 (GUI Mode)
 How to Compile:
 Use the command line inside `Part1/` or `Part2/` folders:
 
-How to Run (Console Version)
-1.Compile: javac Horse.java Race.java RaceTest.java HorseTest.java
-2.Run: java RaceTest
-3.Run test: java HorseTest
+How to Run (Console Version):
+1.Compile: 
+    javac Horse.java Race.java RaceTest.java HorseTest.java
+2.Run: 
+    java RaceTest
+3.Run test: 
+    java HorseTest
 
-How to Run (GUI Version)
-1.Compile: javac Horse.java RaceGUI.java RaceStatisticsManager.java
-2.Run: java RaceGUI
+How to Run (GUI Version):
+1.Compile: 
+    javac Horse.java RaceGUI.java RaceStatisticsManager.java
+2.Run: 
+    java RaceGUI
 
 Features:
     Console Mode:
