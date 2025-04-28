@@ -20,6 +20,9 @@ Part 2 (GUI Mode)
 ├── balance.txt          # Saves user betting balance
 ├── race_statistics.txt  # Race history and horse speed stats
 
+How to Compile:
+Use the command line inside `Part1/` or `Part2/` folders:
+
 How to Run (Console Version)
 1.Compile: javac Horse.java Race.java RaceTest.java HorseTest.java
 2.Run: java RaceTest
@@ -41,5 +44,16 @@ Features:
         Dynamic track and weather effects: Conditions affect horse performance.
         Balance management: Persistent balance (balance.txt).
         Detailed statistics: Race history saved in race_statistics.txt including finish time and average speed.
-        
+    
+Git Repository Structure:
+- main branch: contains the final, merged project.
+- gui-development branch: used for GUI development before merging back to main.
+
+Setup Requirements:
+- Java JDK 8 or above is required to compile and run the program.
+- No external libraries are needed.
+- Can be run from terminal or any Java IDE (e.g., IntelliJ IDEA, Eclipse, VSCode).
+
+
+
 Author: Thanadol kamwongsa
