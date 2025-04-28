@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "part2.MainApp",
+            "projectName": "HorseRace Starter_b339a2a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFX App",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "vmArgs": "--module-path /Users/thanadolkamwongsa/Downloads/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml"
+
+        }
+    ]
+}
